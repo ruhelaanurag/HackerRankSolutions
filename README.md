@@ -1,2 +1,2 @@
 # HackerRankSolutions
-Solutions to Hacker Rank problems
+Solution to Hacker Rank problems
