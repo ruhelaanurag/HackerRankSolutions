@@ -1,5 +1,5 @@
 ///Solution to Hacker Rank Problem: Compare the Triplets
-///URL: https://www.hackerrank.com/challenges/compare-the-triplets/leaderboard
+///URL: https://www.hackerrank.com/challenges/compare-the-triplets
 
 
 using System;
